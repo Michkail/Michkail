@@ -47,7 +47,7 @@
 <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy" width="60" height="60"/> </a>
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
 <a href="https://apache.airflow.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" width="60" height="60"/> </a>
-<a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
+<a href="https://github.com/spotify/luigi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png" alt="Luigi" width="60" height="60"/> </a>
 </p>
 
 
