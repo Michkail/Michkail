@@ -3,7 +3,7 @@
 
 - 🔭 Currently work at SAT as a Python Developer
 
-- 🌱 Learning **Kedro, FastAPI, and Luigi** for now
+- 🌱 Learning **Kedro, FastAPI, Airflow, and Luigi** for now
 
 - 💬 Ask me about **Python**
 
