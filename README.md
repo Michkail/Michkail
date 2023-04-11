@@ -45,6 +45,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12952/71277/icon/META-INF_pluginIcon.svg" alt="Odoo" width="60" height="60"/> </a>
 <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy" width="60" height="60"/> </a>
+<a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
 </p>
 
 
