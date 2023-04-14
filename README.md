@@ -43,11 +43,11 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="60" height="60"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12952/71277/icon/META-INF_pluginIcon.svg" alt="Odoo" width="60" height="60"/> </a>
 <a href="https://apache.airflow.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" width="60" height="60"/> </a>
 <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy" width="60" height="60"/> </a>
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
 
 
