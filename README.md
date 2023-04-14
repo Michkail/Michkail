@@ -32,6 +32,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
+<a href="https://github.com/spotify/luigi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png" alt="Luigi" width="80" height="60"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" width="60" height="60"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="60" height="60"/> </a>
@@ -47,7 +48,6 @@
 <a href="https://apache.airflow.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" width="60" height="60"/> </a>
 <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy" width="60" height="60"/> </a>
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
-<a href="https://github.com/spotify/luigi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png" alt="Luigi" width="80" height="60"/> </a>
 </p>
 
 
