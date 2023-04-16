@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi I'm Piter</h1>
-<h3 align="center">Python Enthusiast from Jakarta</h3>
+<h3 align="center">Python Enthusiast based in Jakarta</h3>
 
 - 🔭 Currently work at SAT as a Python Developer
 
