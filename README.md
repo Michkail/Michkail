@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences in [my resume](https://resume.io/r/nuky63QoI)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Keep in Touch:</h3>
 <p align="left">
 <a href="https://twitter.com/Michkail_39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/pitermichkail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
