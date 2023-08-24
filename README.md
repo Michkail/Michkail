@@ -5,7 +5,7 @@
 
 - 🌱 Learning **Kedro, FastAPI, Airflow, and Luigi** for now
 
-- 💬 Ask [me](wa.me/6281211755819) about **Python** 
+- 💬 Ask [me](https://wa.me/6281211755819) about **Python** 
 
 - 📫 How to reach me? send [email](mailto:michkail@pm.me)
 
