@@ -50,6 +50,4 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
 
-```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michkail)](https://github.com/anuraghazra/github-readme-stats)
-```
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=Michkail\&layout=compact'/>
