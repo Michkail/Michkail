@@ -50,7 +50,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
 <a href="https://github.com/Michkail">
-  <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Michkail&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Michkail&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 
