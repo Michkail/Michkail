@@ -49,7 +49,10 @@
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
-
+<a href="https://github.com/Michkail">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Michkail&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Michkail&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 
 
