@@ -49,5 +49,7 @@
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michkail)](https://github.com/anuraghazra/github-readme-stats)
 
+```md
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michkail)](https://github.com/anuraghazra/github-readme-stats)
+```
