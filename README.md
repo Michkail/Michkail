@@ -50,4 +50,3 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 </p>
 
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=Michkail\&layout=compact'/>
