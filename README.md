@@ -3,7 +3,7 @@
 
 - 🔭 Currently work at SAT as a Python Developer
 
-- 🌱 Learning **Kedro, FastAPI, Airflow, and Luigi** for now
+- 🌱 Learning **Airflow, Hadoop, Hive, Flink, Nifi, Pentaho, dan Superset** for now
 
 - 💬 Ask [me](https://wa.me/6281211755819) about **Python** 
 
