@@ -3,11 +3,11 @@
 
 - 🔭 Currently work at SAT as a Python Developer
 
-- 🌱 Learning **Airflow, Hadoop, Hive, Flink, Nifi, Pentaho, dan Superset** for now
+- 🌱 Learning **Kotlin** for now
 
 - 💬 Ask [me](https://wa.me/6281211755819) about **Python** 
 
-- 📫 How to reach me? send [email](mailto:michkail@pm.me)
+- 📫 How to reach me? send [email](mailto:michkail@pitrlabs.com)
 
 - 📄 Know about my experiences in [my resume](https://resume.io/r/nuky63QoI)
 
