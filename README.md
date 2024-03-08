@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi I'm Piter</h1>
 <h3 align="center">Python Enthusiast based in Jakarta</h3>
 
-- 🔭 Currently work at SAT as a Python Developer
+- 🔭 Currently work at Wings as a IT Python Developer
 
 - 🌱 Learning **Kotlin** for now
 
