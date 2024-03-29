@@ -50,6 +50,6 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="60" height="60"/> </a>
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="60" height="60"/> </a>
-<a href="https://flask.palletsprojects.com"> <img src="https://cdn.worldvectorlogo.com/logos/flask-1.svg" alt="Flask" width="60" height="60"/> </a>
+<a href="https://flask.palletsprojects.com"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="60" height="60"/> </a>
 </p>
 
