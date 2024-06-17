@@ -1,11 +1,11 @@
 <h1 align="center"> 👋 Hi I'm Piter</h1>
-<h3 align="center">Python Enthusiast based in Jakarta</h3>
+<h3 align="center">Rust and Python Enthusiast based in Jakarta</h3>
 
-- 🔭 Currently work at Wings Corporation as an IT Python Developer
+- 🔭 Currently work at Wings Corporation as an Python Developer
 
-- 🌱 Learning **Kotlin** for now
+- 🌱 Concentrate with **Rust and Python** to grow
 
-- 💬 Ask [me](https://wa.me/6281211755819) about **Python** 
+- 💬 Discuss with [me](https://wa.me/6281211755819) about **Rust and Python** 
 
 - 📫 How to reach me? send [email](mailto:michkail@pitrlabs.com)
 
@@ -41,6 +41,7 @@
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="60" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="SciPy" width="60" height="60"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="60" height="60"/> </a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="60" height="60"/> </a>
 <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12952/71277/icon/META-INF_pluginIcon.svg" alt="Odoo" width="60" height="60"/> </a>
