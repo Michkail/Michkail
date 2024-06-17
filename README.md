@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi I'm Piter</h1>
+<h1 align="center"> 👋 Hi, i'm Piter</h1>
 <h3 align="center">Rust and Python Enthusiast based in Jakarta</h3>
 
 - 🔭 Currently work at Wings Corporation as an Python Developer
