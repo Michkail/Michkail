@@ -16,6 +16,7 @@
 <a href="https://twitter.com/Michkail_39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/pitermichkail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michkail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
+<a href="https://huggingface.co/pitermichkail" target=blank"><img align="center" src="
 </p>
 
 <h3 align="left">Technology stack:</h3>
