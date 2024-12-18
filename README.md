@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CutLXZsh.svg" alt="Tableau Public" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
-<a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://gyazo.com/c3f6a312ba9205ea692c60ad1e3b6f4b/max_size/1000" alt="Docker Hub" height="30" width="152" /></a>
+<a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://postfiles.pstatic.net/MjAyMzA3MDlfMjE1/MDAxNjg4OTA2MTEyMTQ1.qo9o0GRypFfw6JikmErdLUtPYs6iMWwNfTK-8sJvnhcg.jU6neBpLLIml_4pFCfqGOZfEyrwD5w7qWsCwOW4sgxcg.PNG.gi_balja/Docker-hub.png?type=w966" alt="Docker Hub" height="30" width="152" /></a>
 </p>
 
 <h3 align="left">Technology stack:</h3>
