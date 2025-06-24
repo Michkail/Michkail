@@ -24,7 +24,6 @@
 <a href="https://leetcode.com/u/Michkail/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
 <a href="https://www.hackerrank.com/profile/pitermichkail" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" height="30" width="152" /></a>
-</p>
 <a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://d36jcksde1wxzq.cloudfront.net/app-ui/CKODg0Tv.svg" alt="Docker Hub" height="30" width="152" /></a>
 </p>
 
