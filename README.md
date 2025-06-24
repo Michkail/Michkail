@@ -7,7 +7,7 @@
 
 - 💬 Discuss with [me](https://wa.me/6281211755819) about **Rust and Python** 
 
-- 📫 How to reach me? send [email](mailto:michkail@pitrlabs.com)
+- 📫 How to reach me? send [email](mailto:michkail@protonmail.com)
 
 - 📄 About my experiences in [my resume](https://www.canva.com/design/DAGqKd4hAUw/wouGklpgNzJbJdO6VxDxtg/view?utm_content=DAGqKd4hAUw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f62893465)
 
@@ -21,6 +21,7 @@
 <h3 align="left">Technology expertise:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CiQ9h6A3.svg" alt="Tableau Public" height="30" width="152" /></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" target="blank"><img align="center" src="https://leetcode.com/u/Michkail/" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
 <a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://d36jcksde1wxzq.cloudfront.net/app-ui/CKODg0Tv.svg" alt="Docker Hub" height="30" width="152" /></a>
 </p>
