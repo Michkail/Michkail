@@ -20,7 +20,7 @@
 
 <h3 align="left">Technology expertise:</h3>
 <p align="left">
-<a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CutLXZsh.svg" alt="Tableau Public" height="30" width="152" /></a>
+<a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CiQ9h6A3.svg" alt="Tableau Public" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
 <a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://d36jcksde1wxzq.cloudfront.net/app-ui/CKODg0Tv.svg" alt="Docker Hub" height="30" width="152" /></a>
 </p>
@@ -58,6 +58,6 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="60" height="60"/> </a>
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="60" height="60"/> </a>
-<a href="https://flask.palletsprojects.com"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="Flask" width="60" height="60"/> </a>
+<a href="https://flask.palletsprojects.com"> <img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" alt="Flask" width="60" height="60"/> </a>
 </p>
 
