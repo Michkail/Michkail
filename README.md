@@ -53,7 +53,7 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="60" height="60"/> </a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="60" height="60"/> </a>
-<a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/odoo.com.svg" alt="Odoo" width="120" height="60"/> </a>
+<a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/odoo.com.svg" alt="Odoo" width="60" height="60"/> </a>
 <a href="https://apache.airflow.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" width="60" height="60"/> </a>
 <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy" width="60" height="60"/> </a>
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" width="60" height="60"/> </a>
