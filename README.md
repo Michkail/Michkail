@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🔭 Currently focusing on **R&D at pitrLabs**
 - 🌱 Deep-diving into **Rust and Python** ecosystems
 - 💬 Discuss with [me](https://wa.me/6281211755819) about **Rust and Python**
@@ -20,7 +20,7 @@
 
 ---
 
-### 🏆 Profiles & Competitive Programming
+### Profiles & Competitive Programming
 <p align="left">
 <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CiQ9h6A3.svg" alt="Tableau Public" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
