@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Piter</h1>
-  <h3>Rust & Python Enthusiast based in Jakarta</h3>
+  <h3>Rust & Python Enthusiast based in West Java</h3>
   
   <p>
     <a href="https://twitter.com/Michkail_39" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32"/></a>&nbsp;&nbsp;&nbsp;
