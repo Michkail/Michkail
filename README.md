@@ -23,7 +23,7 @@
 <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb-CiQ9h6A3.svg" alt="Tableau Public" height="30" width="152" /></a>
 <a href="https://huggingface.co/pitermichkail" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
 <a href="https://www.hackerrank.com/profile/pitermichkail" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" height="30" width="152" /></a>
-<a href="https://leetcode.com/u/Michkail/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode" height="30" width="152" /></a>
+<a href="https://leetcode.com/u/Michkail/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-3030025.png" alt="LeetCode" height="30" width="152" /></a>
 <a href="https://hub.docker.com/u/pitermichkail" target="blank"><img align="center" src="https://d36jcksde1wxzq.cloudfront.net/app-ui/CKODg0Tv.svg" alt="Docker Hub" height="30" width="152" /></a>
 <a href="https://www.kaggle.com/pitermichkail" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="30" width="100" /></a>
 </p>
