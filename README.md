@@ -70,9 +70,9 @@
   <a href="https://kedro.org/" target="_blank" rel="noreferrer"><img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" height="45"/></a>&nbsp;&nbsp;
   <a href="https://github.com/spotify/luigi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png" alt="Luigi" height="45"/></a>&nbsp;&nbsp;
   <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/icon/download/social_media/4245-hadoop.png" alt="Apache Hadoop" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-2023-edition/Fabric_final_x256.png" alt="Microsoft Fabric" height="45"/></a>&nbsp;&nbsp;
-
-  <a href="https://hive.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_hive_logo_icon_167867.png" alt="Apache Hive" height="45"/></a>
+  <a href="https://hive.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_hive_logo_icon_167867.png" alt="Apache Hive" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-2023-edition/Fabric_final_x256.png" alt="Microsoft Fabric" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://databricks.com" target="_blank" rel="noreferrer"><img src="https://az-icons.com/images/azure-databricks/icon.svg" alt="Databricks" height="45"/></a>
 </p>
 
 **Backend, Web & Mobile**
