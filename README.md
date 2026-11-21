@@ -7,7 +7,7 @@
 
 - 💬 Discuss with [me](https://wa.me/6281211755819) about **Rust and Python** 
 
-- 📫 How to reach me? send [email](mailto:michkail@protonmail.com)
+- 📫 How to reach me? send [email](mailto:michkail@pitrlabs.org)
 
 - 📄 About my experiences in [my resume](https://www.canva.com/design/DAGqKd4hAUw/wouGklpgNzJbJdO6VxDxtg/view?utm_content=DAGqKd4hAUw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f62893465)
 
