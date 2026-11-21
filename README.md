@@ -59,9 +59,9 @@
 <p align="left">
   <a href="https://delta.io" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/68c803b3497f18f5503b830d/68da505ee9382ac2316b3e67_66192bf45f99cf9cd103c8b3_delta.svg" alt="Delta Lake" height="45"/></a>&nbsp;&nbsp;
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://dashboardicons.com/api/icons/external/simpleicons/apacheparquet/brand.png" alt="Apache Parquet" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_orc_logo_icon_167862.png" alt="Apache ORC" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://parquet.apache.org" target="_blank" rel="noreferrer"><img src="https://dashboardicons.com/api/icons/external/simpleicons/apacheparquet/brand.png" alt="Apache Parquet" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://orc.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_orc_logo_icon_167862.png" alt="Apache ORC" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://avro.apache.org" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/68/3/apache-avro-logo-png_seeklogo-687543.png" alt="Apache Avro" height="45"/></a>&nbsp;&nbsp;
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
   
