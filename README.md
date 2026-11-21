@@ -3,11 +3,9 @@
   <h3>Rust & Python Enthusiast based in Jakarta</h3>
   
   <p>
-    <a href="https://twitter.com/Michkail_39" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://instagram.com/pitermichkail" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://linkedin.com/in/michkail/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://wa.me/6281211755819" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    <a href="mailto:michkail@pitrlabs.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://twitter.com/Michkail_39" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/pitermichkail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/michkail/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32"/></a>
   </p>
 </div>
 
@@ -16,20 +14,20 @@
 ### 👨‍💻 About Me
 - 🔭 Currently focusing on **R&D at pitrLabs**
 - 🌱 Deep-diving into **Rust and Python** ecosystems
-- 💬 Open for discussions around **Rust, Python, Data Engineering, and AI**
-- 📄 Check out my experience in [my resume](https://www.canva.com/design/DAGqKd4hAUw/wouGklpgNzJbJdO6VxDxtg/view?utm_content=DAGqKd4hAUw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f62893465)
+- 💬 Discuss with [me](https://wa.me/6281211755819) about **Rust and Python**
+- 📫 How to reach me? Send an [email](mailto:michkail@pitrlabs.org)
+- 📄 About my experiences in [my resume](https://www.canva.com/design/DAGqKd4hAUw/wouGklpgNzJbJdO6VxDxtg/view?utm_content=DAGqKd4hAUw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f62893465)
 
 ---
 
 ### 🏆 Profiles & Competitive Programming
 <p align="left">
-  <a href="https://huggingface.co/pitermichkail" target="_blank"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/></a>
-  <a href="https://www.kaggle.com/pitermichkail" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/></a>
-  <a href="https://leetcode.com/u/Michkail/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/pitermichkail" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://hub.docker.com/u/pitermichkail" target="_blank"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
-</p>
+  <a href="https://huggingface.co/pitermichkail" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="35"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/pitermichkail" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="35"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/michkail.piter/vizzes" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" height="35"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Michkail/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-3030025.png" alt="LeetCode" height="35"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/pitermichkail" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="35"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/pitermichkail" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker Hub" height="35"/></a>
 
 ---
 
