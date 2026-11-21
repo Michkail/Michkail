@@ -72,7 +72,7 @@
 <a href="https://spark.apache.org"> <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" width="60" height="60"/> </a>
 <a href="https://hadoop.apache.org"> <img src="https://freepngimg.com/icon/download/social_media/4245-hadoop.png" alt="Apache Hadoop" width="60" height="60"/> </a>
 <a href="https://hive.apache.org"> <img src="https://images.icon-icons.com/2699/PNG/512/apache_hive_logo_icon_167867.png" alt="Apache Hive" width="60" height="60"/> </a>
-<a href="https://grpc.io"> <img src="https://downloads.marketplace.jetbrains.com/files/16889/1122119/icon/default.png" alt="gRPC" width="60" height="60"/> </a>
+<a href="https://grpc.io"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI8LF38cqchIdHUexBn9_O5RRvlcOzjGcprLAk5dlKnA&s=10" alt="gRPC" width="60" height="60"/> </a>
   
 </p>
 
