@@ -62,7 +62,7 @@
   <a href="https://parquet.apache.org" target="_blank" rel="noreferrer"><img src="https://dashboardicons.com/api/icons/external/simpleicons/apacheparquet/brand.png" alt="Apache Parquet" height="45"/></a>&nbsp;&nbsp;
   <a href="https://orc.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_orc_logo_icon_167862.png" alt="Apache ORC" height="45"/></a>&nbsp;&nbsp;
   <a href="https://avro.apache.org" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/68/3/apache-avro-logo-png_seeklogo-687543.png" alt="Apache Avro" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://iceberg.apache.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-iceberg.png" alt="Apache Iceberg" height="45"/></a>&nbsp;&nbsp;
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" height="45"/></a>&nbsp;&nbsp;
   
   <a href="https://apache.airflow.org/" target="_blank" rel="noreferrer"><img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" height="45"/></a>&nbsp;&nbsp;
