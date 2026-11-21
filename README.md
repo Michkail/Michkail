@@ -68,8 +68,8 @@
 <a href="https://getdbt.com"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAiZkSZAA0" alt="dbt" width="60" height="60"/> </a>
 <a href="https://kafka.apache.org"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Apache Kafka" width="30" height="60"/> </a>
 <a href="https://rabbitmq.com/"> <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="60" height="60"/> </a>
-<a href="https://redis.io"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-sXH2_aMaS43aTvhPuY2-Tk_dguI46K_0S7DG1iNfiCSgZdfgRL1k3hU&s=10" alt="Redis" width="60" height="60"/> </a>
-<a href="https://spark.apache.org"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U2136oq9DV6oLfemwozVEZsf8BSUiCwWp_zoOi6s0tlY8CE-64rDYsgw&s=10" alt="Apache Spark" width="60" height="60"/> </a>
+<a href="https://redis.io"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" width="60" height="60"/> </a>
+<a href="https://spark.apache.org"> <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" width="60" height="60"/> </a>
 <a href="https://hadoop.apache.org"> <img src="https://freepngimg.com/icon/download/social_media/4245-hadoop.png" alt="Apache Hadoop" width="60" height="60"/> </a>
 <a href="https://hive.apache.org"> <img src="https://images.icon-icons.com/2699/PNG/512/apache_hive_logo_icon_167867.png" alt="Apache Hive" width="60" height="60"/> </a>
 </p>
