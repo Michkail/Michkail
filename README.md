@@ -91,7 +91,7 @@
   <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" height="45"/></a>
 </p>
 
-**DevOps, Testing & Tools**
+**Cloud, DevOps and Tools**
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="45"/></a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://v1-32.docs.kubernetes.io/images/kubernetes.png" alt="Kubernetes" height="45"/></a>&nbsp;&nbsp;
@@ -99,4 +99,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45"/></a>&nbsp;&nbsp;
   <a href="https://locust.io/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/66596d70fa45b7e4c8ec4997/66597748b3df124fb8ad1f3a_favicon%20(1).png" alt="Locust" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="JetBrains" height="45"/></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jenkins.png" alt="Jenkins" height="45"/></a>
 </p>
