@@ -68,13 +68,13 @@
   <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Apache Kafka" height="45"/></a>&nbsp;&nbsp;
   <a href="https://getdbt.com" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAiZkSZAA0" alt="dbt" height="45"/></a>&nbsp;&nbsp;
   <a href="https://kedro.org/" target="_blank" rel="noreferrer"><img src="https://kedro.org/images/kedro-logo.svg" alt="Kedro" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://superset.apache.org" target="_blank" rel="noreferrer"><img src="https://coolify.io/docs/images/services/superset-logo.svg" alt="Apache Superset" height="45"/></a>&nbsp;&nbsp;
   <a href="https://github.com/spotify/luigi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png" alt="Luigi" height="45"/></a>&nbsp;&nbsp;
   <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/icon/download/social_media/4245-hadoop.png" alt="Apache Hadoop" height="45"/></a>&nbsp;&nbsp;
   <a href="https://hive.apache.org" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2699/PNG/512/apache_hive_logo_icon_167867.png" alt="Apache Hive" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-2023-edition/Fabric_final_x256.png" alt="Microsoft Fabric" height="45"/></a>&nbsp;&nbsp;
   <a href="https://databricks.com" target="_blank" rel="noreferrer"><img src="https://az-icons.com/images/azure-databricks/icon.svg" alt="Databricks" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://metabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg" alt="Metabase" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://superset.apache.org" target="_blank" rel="noreferrer"><img src="https://coolify.io/docs/images/services/superset-logo.svg" alt="Apache Superset" height="45"/></a>
+  <a href="https://metabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg" alt="Metabase" height="45"/></a>
 </p>
 
 **Backend, Web & Mobile**
