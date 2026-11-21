@@ -97,7 +97,8 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://v1-32.docs.kubernetes.io/images/kubernetes.png" alt="Kubernetes" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="45"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.creazilla.com/icons/3243756/ansible-icon-lg.png" alt="Ansible" height="45"/></a>&nbsp;&nbsp;
   <a href="https://locust.io/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/66596d70fa45b7e4c8ec4997/66597748b3df124fb8ad1f3a_favicon%20(1).png" alt="Locust" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="JetBrains" height="45"/></a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="JetBrains" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jenkins.png" alt="Jenkins" height="45"/></a>
 </p>
