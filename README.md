@@ -65,5 +65,7 @@
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="60" height="60"/> </a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="60" height="60"/> </a>
 <a href="https://flask.palletsprojects.com"> <img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" alt="Flask" width="60" height="60"/> </a>
+<a href="https://getdbt.com"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAiZkSZAA0" alt="dbt" width="60" height="60"/> </a>
+
 </p>
 
